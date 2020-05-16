@@ -27,7 +27,6 @@ public class Confirmvisitor extends TestBase{
 	public boolean verifytheUser() {
 		return verifytheuser.isDisplayed();
 		
-		
 	}
 
 }
