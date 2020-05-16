@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Visitor Mortering System" duration-ms="138207" started-at="2020-05-16T13:11:33Z" finished-at="2020-05-16T13:13:52Z">
+    <groups>
+    </groups>
+    <test name="Visitor Mortering System" duration-ms="138207" started-at="2020-05-16T13:11:33Z" finished-at="2020-05-16T13:13:52Z">
+      <class name="com.pro.testcases.AddNewvisitor">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pro.testcases.AddNewvisitor@77caeb3e]" name="setUp" is-config="true" duration-ms="24611" started-at="2020-05-16T13:11:34Z" finished-at="2020-05-16T13:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addVisitor()[pri:1, instance:com.pro.testcases.AddNewvisitor@77caeb3e]" name="addVisitor" duration-ms="6426" started-at="2020-05-16T13:11:58Z" finished-at="2020-05-16T13:12:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addVisitor -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.pro.testcases.AddNewvisitor@77caeb3e]" name="closeBrowser" is-config="true" duration-ms="1410" started-at="2020-05-16T13:12:05Z" finished-at="2020-05-16T13:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.pro.testcases.AddNewvisitor -->
+      <class name="com.pro.testcases.ManagePendingvisitor">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pro.testcases.ManagePendingvisitor@1e88b3c]" name="setUp" is-config="true" duration-ms="19042" started-at="2020-05-16T13:12:06Z" finished-at="2020-05-16T13:12:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickmanagePendingVisitor()[pri:2, instance:com.pro.testcases.ManagePendingvisitor@1e88b3c]" name="clickmanagePendingVisitor" duration-ms="5924" started-at="2020-05-16T13:12:25Z" finished-at="2020-05-16T13:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickmanagePendingVisitor -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.pro.testcases.ManagePendingvisitor@1e88b3c]" name="closeBrowser" is-config="true" duration-ms="2058" started-at="2020-05-16T13:12:31Z" finished-at="2020-05-16T13:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.pro.testcases.ManagePendingvisitor -->
+      <class name="com.pro.testcases.DatewiseReport">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pro.testcases.DatewiseReport@1bce4f0a]" name="setUp" is-config="true" duration-ms="21561" started-at="2020-05-16T13:12:58Z" finished-at="2020-05-16T13:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Report()[pri:4, instance:com.pro.testcases.DatewiseReport@1bce4f0a]" name="Report" duration-ms="3482" started-at="2020-05-16T13:13:19Z" finished-at="2020-05-16T13:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Report -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.pro.testcases.DatewiseReport@1bce4f0a]" name="closeBrowser" is-config="true" duration-ms="2016" started-at="2020-05-16T13:13:23Z" finished-at="2020-05-16T13:13:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.pro.testcases.DatewiseReport -->
+      <class name="com.pro.testcases.SearchVisitor">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pro.testcases.SearchVisitor@3bfdc050]" name="setUp" is-config="true" duration-ms="21015" started-at="2020-05-16T13:13:25Z" finished-at="2020-05-16T13:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchVisitor()[pri:5, instance:com.pro.testcases.SearchVisitor@3bfdc050]" name="searchVisitor" duration-ms="4839" started-at="2020-05-16T13:13:46Z" finished-at="2020-05-16T13:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchVisitor -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.pro.testcases.SearchVisitor@3bfdc050]" name="closeBrowser" is-config="true" duration-ms="1273" started-at="2020-05-16T13:13:50Z" finished-at="2020-05-16T13:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.pro.testcases.SearchVisitor -->
+      <class name="com.pro.testcases.ManageConfirmvisitor">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pro.testcases.ManageConfirmvisitor@42d80b78]" name="setUp" is-config="true" duration-ms="19344" started-at="2020-05-16T13:12:33Z" finished-at="2020-05-16T13:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="manageConfirmVisitor()[pri:3, instance:com.pro.testcases.ManageConfirmvisitor@42d80b78]" name="manageConfirmVisitor" duration-ms="3892" started-at="2020-05-16T13:12:52Z" finished-at="2020-05-16T13:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageConfirmVisitor -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.pro.testcases.ManageConfirmvisitor@42d80b78]" name="closeBrowser" is-config="true" duration-ms="1221" started-at="2020-05-16T13:12:56Z" finished-at="2020-05-16T13:12:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.pro.testcases.ManageConfirmvisitor -->
+    </test> <!-- Visitor Mortering System -->
+  </suite> <!-- Visitor Mortering System -->
+</testng-results>

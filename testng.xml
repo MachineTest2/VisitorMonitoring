@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Visitor Mortering System">
+	<test name="Visitor Mortering System">
+		<classes>
+			<class name="com.pro.testcases.AddNewvisitor" />
+			<class name="com.pro.testcases.ManagePendingvisitor" />
+			<class name="com.pro.testcases.ManageConfirmvisitor" />
+			<class name="com.pro.testcases.SearchVisitor" />
+			<class name="com.pro.testcases.DatewiseReport" />
+
+		</classes>
+	</test>
+</suite>
